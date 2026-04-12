@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: BunnyMat
-  m_Shader: {fileID: -6465566751694194690, guid: df811ca78c457b844b025d50f91d51ea, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 95a4ffe486590b1478d9a13f9e951ec7, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -80,7 +80,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Texture:
-        m_Texture: {fileID: 2800000, guid: 3b16a6bb3fb1f4496be76190ff97c981, type: 3}
+        m_Texture: {fileID: 2800000, guid: c65c48d33fdba614aa74a738be3805ee, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Ints: []
@@ -112,6 +112,7 @@ Material:
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
+    - _Scale: 1
     - _Smoothness: 0
     - _SmoothnessTextureChannel: 0
     - _SmothAmount: 0.87
@@ -121,6 +122,7 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
+    - _BottomColor: {r: 0, g: 0.1918862, b: 1, a: 0}
     - _Color: {r: 1, g: 0, b: 0.8217411, a: 1}
     - _Color1: {r: 0.2371841, g: 0.5000979, b: 0.7735849, a: 0}
     - _Color2: {r: 0.8301887, g: 0.4952959, b: 0.2858669, a: 0}
@@ -130,6 +132,7 @@ Material:
     - _Light: {r: 5, g: 5, b: 5, a: 0}
     - _MainColor: {r: 0.94509804, g: 0.54509807, b: 0.5058824, a: 1}
     - _Position: {r: 5, g: 5, b: 5, a: 0}
+    - _TopColor: {r: 1, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &3373621730603730623
 MonoBehaviour:
