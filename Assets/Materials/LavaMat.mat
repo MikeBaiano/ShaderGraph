@@ -64,8 +64,16 @@ Material:
         m_Texture: {fileID: 2800000, guid: a28a266d1ac5f1240b7760baa7f28e43, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _LMask:
+        m_Texture: {fileID: 2800000, guid: 33744abec014dba46b48463424981dfb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _MainTex:
         m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Mask:
+        m_Texture: {fileID: 2800000, guid: 33744abec014dba46b48463424981dfb, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
