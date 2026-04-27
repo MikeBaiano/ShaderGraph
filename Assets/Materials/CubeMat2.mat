@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: CubeMat2
-  m_Shader: {fileID: -6465566751694194690, guid: 1f03f9af3a45cba4eac6182d1f08927e, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 96ccd89bc684fc545b47005605f08dbc, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -22,7 +22,15 @@ Material:
   m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
-    m_TexEnvs: []
+    m_TexEnvs:
+    - _SampleTexture2D_210d43f47095431eab953379abcc26a9_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: e7c8a27c02d1c2847a5645c140c85138, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_6b9ffbcd3fee4b298906107bb719ad9f_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: d98df2a8f15cadc41b24b9434f95784a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
     - _BUILTIN_QueueControl: 0
